@@ -36,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anamikarawat2305&show_icons=true&locale=en" alt="anamikarawat2305" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anamikarawat2305&" alt="anamikarawat2305" /></p>
+[![@newbiecoder's Holopin board](https://holopin.me/newbiecoder)](https://holopin.io/@newbiecoder)
