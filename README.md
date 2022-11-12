@@ -37,5 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anamikarawat2305&" alt="anamikarawat2305" /></p>
 [![@newbiecoder's Holopin board](https://holopin.me/newbiecoder)]
-
-https://holopin.me/newbiecoder
+<p align="left"> <img src="https://holopin.me/newbiecoder" alt="anamikarawat2305" /> </p>
