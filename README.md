@@ -16,7 +16,7 @@
 
 - 🤝 Motto of my life! **Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anamikarawat](https://github.com/anamikarawat2305)
+- 👨‍💻 All of my projects are available at [https://github.com/anamikarawat2305](https://github.com/anamikarawat2305)
 
 - 📫 How to reach me **anamikarawart@gmail.com**
 
